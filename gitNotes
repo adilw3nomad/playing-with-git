@@ -1,5 +1,5 @@
 git shortcuts
-append to .gitconfig
+append to .gitconfig or use zsh plugin easier 
 [alias]
  co = checkout
  ci = commit
